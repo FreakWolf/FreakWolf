@@ -83,6 +83,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/FreakWolf/FreakWolf/output/snake.svg" alt="Snake animation" />
-
 ###
