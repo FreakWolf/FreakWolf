@@ -5,7 +5,16 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=FreakWolf&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FreakWolf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FreakWolf&show_icons=true&theme=dracula&locale=en" alt="FreakWolf" /></p>
 </div>
+
+###
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=FreakWolf&label=Profile%20views&color=0e75b6&style=flat" alt="FreakWolf" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FreakWolf" alt="FreakWolf" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ###
 
@@ -80,7 +89,6 @@
 </div>
 
 ###
-
 <br clear="both">
 
 ###
